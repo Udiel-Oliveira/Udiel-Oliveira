@@ -1,8 +1,9 @@
-## Salve!! Udiel na area 😁
->📖status do usuário: Estudando✏️.
+<img align="center" style="margin-bottom:100px" width=100% src="https://raw.githubusercontent.com/Udiel-Oliveira/Udiel-Oliveira/main/Hello!!%2C%20I%E2%80%99am%20Udiel.gif" />
+&nbsp;&nbsp;&nbsp;
 <div align="center">
   <a href="https://github.com/Udiel-Oliveira">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Udiel-Oliveira&show_icons=true&theme=dark&include_all_commits=false&count_private=true"/>
+    <img src="https://github-readme-stats-git-main-Udiel-Oliveira.vercel.app/api/top-langs/?username=Udiel-Oliveira&show_icons=true&theme=radical&layout=compact" />
 </div>
 ##
 >Linguagens que utilizo
@@ -25,10 +26,6 @@
   ##
   </div>
 
-
-<img align="center" style="margin-bottom:100px" width=100% src="https://raw.githubusercontent.com/Udiel-Oliveira/Udiel-Oliveira/main/Hello!!%2C%20I%E2%80%99am%20Udiel.gif" />
-&nbsp;&nbsp;&nbsp;
-
 <p align="center">I ❤️ solve great challenges using tech. <br><br> From backend development using Flask to frontend development using ReactTS, I am <strong>passionate to discover new stuffs</strong> and use them to create high quality solutions. Today, I'm a <strong>full stack mid-level developer</strong> focused on web development.</p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
@@ -41,8 +38,7 @@
  &nbsp;
 
 
-
-## My Skills
+## <img src="https://i.ibb.co/mytkZ0j/wepik-export-20231124122959puq-K.png" alt="wepik-export-20231124122959puq-K" border="0">
 
 #### Main Stack:
 
@@ -88,7 +84,7 @@
 &nbsp;
 &nbsp;
 
-## Contacts:
+## <a href="https://ibb.co/6bGkXs5"><img src="https://i.ibb.co/VDbswB8/wepik-export-20231124123624-Yk-Kz.png" alt="wepik-export-20231124123624-Yk-Kz" border="0"></a>
 
 <div> 
 <a href="https://www.instagram.com/rafa.alexandrino" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
@@ -101,4 +97,4 @@
 
   
   
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3533CD&height=120&section=footer"/>
