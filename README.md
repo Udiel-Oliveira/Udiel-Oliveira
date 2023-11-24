@@ -1,44 +1,21 @@
 <img align="center" style="margin-bottom:100px" width=100% src="https://raw.githubusercontent.com/Udiel-Oliveira/Udiel-Oliveira/main/Hello!!%2C%20I%E2%80%99am%20Udiel.gif" />
 &nbsp;&nbsp;&nbsp;
-<div align="center">
-  <a href="https://github.com/Udiel-Oliveira">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Udiel-Oliveira&show_icons=true&theme=dark&include_all_commits=false&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Udiel-Oliveira&layout=compact&langs_count=7&theme=dark"/>
-</div>
-##
->Linguagens que utilizo
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-
-##
->Redes sociais
- 
-<div> 
-  <a href="https:///channel/UC_-uuuZbY0AAt9CViNzvc-Q" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=dark" target="_blank"></a>
-  <a href="https://instagram.com/Udiel-Oliveira" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- 	<a href="https://www.twitch.tv/Udiel-Oliveira" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
- <a href="https://wagxzStdcR" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/-45875016a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
-  ##
   </div>
 
 <p align="center">I ❤️ solve great challenges using tech. <br><br> From backend development using Flask to frontend development using ReactTS, I am <strong>passionate to discover new stuffs</strong> and use them to create high quality solutions. Today, I'm a <strong>full stack mid-level developer</strong> focused on web development.</p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
   
-<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=Udiel-Oliveira&theme=radical&mode=weekly"/>
-<img width=55% align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Udiel-Oliveira&layout=compact&langs_count=7&theme=dark"/>
+<img width=55% height=210em align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=Udiel-Oliveira&theme=algolia&mode=weekly"/>
+<img height=210em align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Udiel-Oliveira&layout=compact&langs_count=7&theme=algolia"/>
 
+</div>
 
- </div>
- 
+<div> 
+  
  &nbsp;
  &nbsp;
-
 
 ## <img src="https://i.ibb.co/mytkZ0j/wepik-export-20231124122959puq-K.png" alt="wepik-export-20231124122959puq-K" border="0">
 
@@ -55,6 +32,8 @@
 ![RabbitMQ](https://img.shields.io/badge/rabbitmq-%23FF6600.svg?&style=for-the-badge&logo=rabbitmq&logoColor=white)&nbsp;
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 ![Graphql](https://img.shields.io/badge/graphql-E10098?style=for-the-badge&logo=graphql&logoColor=white)&nbsp;
+
+<!--My Skills-->
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
@@ -86,6 +65,8 @@
 &nbsp;
 &nbsp;
 
+<!--CONTATO-->
+
 ## <a href="https://ibb.co/6bGkXs5"><img src="https://i.ibb.co/VDbswB8/wepik-export-20231124123624-Yk-Kz.png" alt="wepik-export-20231124123624-Yk-Kz" border="0"></a>
 
 <div> 
@@ -94,9 +75,7 @@
 <a href = ""> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a> 
 <a href="" target="_blank"><img src="https://img.shields.io/badge/-Medium-%23000000?style=for-the-badge&logo=medium&logoColor=white"  target="_blank"></a> 
+<a href="https://wagxzStdcR" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
 </div>&nbsp;&nbsp;
- 
 
-  
-  
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3533CD&height=120&section=footer"/>
