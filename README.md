@@ -18,7 +18,7 @@
  &nbsp;
  &nbsp;
 
-## <img width=20% src="https://i.ibb.co/mytkZ0j/wepik-export-20231124122959puq-K.png" alt="wepik-export-20231124122959puq-K" border="0">
+## <img width=100% src="https://i.ibb.co/mytkZ0j/wepik-export-20231124122959puq-K.png" alt="wepik-export-20231124122959puq-K" border="0">
 
 #### Main Stack:
 
@@ -68,7 +68,7 @@
 
 <!--CONTATO-->
 
-## <a href="https://ibb.co/6bGkXs5"><img src="https://i.ibb.co/VDbswB8/wepik-export-20231124123624-Yk-Kz.png" alt="wepik-export-20231124123624-Yk-Kz" border="0"></a>
+## <a width=100% href="https://ibb.co/6bGkXs5"><img src="https://i.ibb.co/VDbswB8/wepik-export-20231124123624-Yk-Kz.png" alt="wepik-export-20231124123624-Yk-Kz" border="0"></a>
 
 <div> 
 <a href="https://www.instagram.com/rafa.alexandrino" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
