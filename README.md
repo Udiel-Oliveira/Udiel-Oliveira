@@ -9,7 +9,7 @@
   
 <img width=55% height=210em align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=Udiel-Oliveira&theme=algolia&mode=weekly"/>
 
-<img width=55% height=50em align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Udiel-Oliveira&layout=compact&langs_count=7&theme=algolia"/>
+<img width=55% height=200em align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Udiel-Oliveira&layout=compact&langs_count=7&theme=algolia"/>
 
 </div>
 
