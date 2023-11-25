@@ -18,7 +18,7 @@
  &nbsp;
  &nbsp;
 
-## <img src="https://i.ibb.co/mytkZ0j/wepik-export-20231124122959puq-K.png" alt="wepik-export-20231124122959puq-K" border="0">
+## <img width=100% src="https://i.ibb.co/mytkZ0j/wepik-export-20231124122959puq-K.png" alt="wepik-export-20231124122959puq-K" border="0">
 
 #### Main Stack:
 
