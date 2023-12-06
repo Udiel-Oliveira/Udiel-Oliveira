@@ -29,15 +29,12 @@
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
-#### Secondary Stack:
-
-<img src="https://3.bp.blogspot.com/-kyPQreGRx0U/WsTTAUJz1NI/AAAAAAAAcAo/Udn9_uxb98YbS1Ip_-3X4s6a0PnxgW-3QCLcBGAs/s1600/27_c-sharp-logo-filled.png" width="65px"/>
-
 #### Studying in this moment:
 
 <img src="https://iconape.com/wp-content/png_logo_vector/c.png" width="55px"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" width="50px"/>
 <img src="https://skillicons.dev/icons?i=react,flask,js,)](https://skillicons.dev"/>
+<img src="https://3.bp.blogspot.com/-kyPQreGRx0U/WsTTAUJz1NI/AAAAAAAAcAo/Udn9_uxb98YbS1Ip_-3X4s6a0PnxgW-3QCLcBGAs/s1600/27_c-sharp-logo-filled.png" width="65px"/>
 
 #### Workstation Tools:
 
