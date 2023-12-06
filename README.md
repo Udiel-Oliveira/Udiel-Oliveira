@@ -37,21 +37,14 @@
 
 <img src="https://iconape.com/wp-content/png_logo_vector/c.png" width="55px"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" width="50px"/>
-<img src="https://skillicons.dev/icons?i=react,flask,)](https://skillicons.dev"/>
-
-#### Databases:
-
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;
-![Postgresql](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
+<img src="https://skillicons.dev/icons?i=react,flask,js,)](https://skillicons.dev"/>
 
 #### Workstation Tools:
 
-![VScode](https://img.shields.io/badge/vscode-4285F4?style=for-the-badge&logo=vscode&logoColor=white)&nbsp;
-![Asana](https://img.shields.io/badge/asana-E44C30?style=for-the-badge&logo=asana&logoColor=white)&nbsp;
-![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)&nbsp;
-
-// ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)&nbsp;
-// ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)&nbsp;
+<img src="https://logos-download.com/wp-content/uploads/2019/06/Notion_App_Logo.png" width="50px"/>
+<img src="https://logosmarcas.net/wp-content/uploads/2021/03/Asana-Logo.png" width="75px"/>
+<img src="https://logodownload.org/wp-content/uploads/2019/10/adobe-photoshop-logo.png" width="50px"/>
+<img src="https://skillicons.dev/icons?i=vscode,figma,)](https://skillicons.dev"/>
 
 &nbsp;
 &nbsp;
