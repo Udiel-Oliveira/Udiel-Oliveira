@@ -3,7 +3,8 @@
 
   </div>
 
-<p align="center">I ❤️ solve great challenges using tech. <br><br> From backend development using phyton to frontend development using JavaScript, I am <strong>passionate to discover new stuffs</strong> and use them to create high quality solutions. Today, I'm a <strong>FrontEnd</strong> focused on web development.</p>&nbsp;
+<p align="center">I ❤️ solve great challenges using tech. <br><br>
+  frontend development using JavaScript, Html e CSS, I am <strong>passionate to discover new stuffs</strong> and use them to create high quality solutions. Today, I'm a <strong>FrontEnd mid-level</strong> focused on web development.</p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
   
