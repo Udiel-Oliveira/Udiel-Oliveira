@@ -50,12 +50,8 @@
 ## <a width=100% href="https://ibb.co/6bGkXs5"><img src="https://i.ibb.co/VDbswB8/wepik-export-20231124123624-Yk-Kz.png" alt="wepik-export-20231124123624-Yk-Kz" border="0"></a>
 
 <div> 
-<a href="https://www.instagram.com/rafa.alexandrino" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-</a>
 <a href = ""> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a> 
-<a href="" target="_blank"><img src="https://img.shields.io/badge/-Medium-%23000000?style=for-the-badge&logo=medium&logoColor=white"  target="_blank"></a> 
-<a href="https://wagxzStdcR" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
 </div>&nbsp;&nbsp;
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3533CD&height=120&section=footer"/>
