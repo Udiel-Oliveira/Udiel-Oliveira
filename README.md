@@ -21,7 +21,7 @@
 ## <img width=100% src="https://i.ibb.co/mytkZ0j/wepik-export-20231124122959puq-K.png" alt="wepik-export-20231124122959puq-K" border="0">
 
 #### Main Stack:
-<img width="50px" src="https://i0.wp.com/tinkercademy.com/wp-content/uploads/2018/04/python-icon.png?ssl=1"/>
+
 <img src="https://skillicons.dev/icons?i=js,html,css,git,)](https://skillicons.dev"/>
 
 
@@ -30,7 +30,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 #### Studying in this moment:
-
+<img width="50px" src="https://i0.wp.com/tinkercademy.com/wp-content/uploads/2018/04/python-icon.png?ssl=1"/>
 <img src="https://iconape.com/wp-content/png_logo_vector/c.png" width="55px"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" width="50px"/>
 <img src="https://skillicons.dev/icons?i=react,flask,js,)](https://skillicons.dev"/>
