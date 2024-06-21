@@ -18,7 +18,7 @@
  &nbsp;
  &nbsp;
 
-## <img width=100% src="https://i.ibb.co/mytkZ0j/wepik-export-20231124122959puq-K.png" alt="wepik-export-20231124122959puq-K" border="0">
+## <img width=65% src="https://i.ibb.co/mytkZ0j/wepik-export-20231124122959puq-K.png" alt="wepik-export-20231124122959puq-K" border="0">
 
 #### Main Stack:
 
@@ -27,7 +27,7 @@
 
 <!--My Skills-->
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" widh=100% align="right" alt="Computador iuriCode">
 
 #### Studying in this moment:
 <img width="50px" src="https://i0.wp.com/tinkercademy.com/wp-content/uploads/2018/04/python-icon.png?ssl=1"/>
