@@ -1,4 +1,4 @@
-<img align="center" style="margin-bottom:100px" width=100% src="https://raw.githubusercontent.com/Udiel-Oliveira/Udiel-Oliveira/main/Hello!!%2C%20I%E2%80%99am%20Udiel.gif" />
+
 &nbsp;&nbsp;&nbsp;
 
   </div>
