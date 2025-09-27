@@ -30,8 +30,6 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" widh=100% align="right" alt="Computador iuriCode">
 
 #### Studying in this moment:
-<img width="50px" src="https://i0.wp.com/tinkercademy.com/wp-content/uploads/2018/04/python-icon.png?ssl=1"/>
-<img src="https://iconape.com/wp-content/png_logo_vector/c.png" width="55px"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" width="50px"/>
 <img src="https://skillicons.dev/icons?i=react,flask,js,)](https://skillicons.dev"/>
 
