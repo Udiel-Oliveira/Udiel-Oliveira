@@ -19,7 +19,7 @@
 
 #### Main Stack:
 
-<img src="https://skillicons.dev/icons?i=js,html,css,git,nextjs,)](https://skillicons.dev"/>
+<img src="https://skillicons.dev/icons?i=js,react,html,css,git,nextjs,)](https://skillicons.dev"/>
 
 
 <!--My Skills-->
@@ -28,7 +28,7 @@
 
 #### Studying in this moment:
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" width="50px"/>
-<img src="https://skillicons.dev/icons?i=react,js,nextjs,)](https://skillicons.dev"/>
+<img src="https://skillicons.dev/icons?i=react,js,nextjs,java,)](https://skillicons.dev"/>
 
 #### Workstation Tools:
 
