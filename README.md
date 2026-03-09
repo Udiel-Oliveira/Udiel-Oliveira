@@ -19,7 +19,7 @@
 
 #### Main Stack:
 
-<img src="https://skillicons.dev/icons?i=js,html,css,git,)](https://skillicons.dev"/>
+<img src="https://skillicons.dev/icons?i=js,html,css,git,nextjs,)](https://skillicons.dev"/>
 
 
 <!--My Skills-->
@@ -28,14 +28,11 @@
 
 #### Studying in this moment:
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" width="50px"/>
-<img src="https://skillicons.dev/icons?i=react,flask,js,)](https://skillicons.dev"/>
+<img src="https://skillicons.dev/icons?i=react,js,nextjs,)](https://skillicons.dev"/>
 
 #### Workstation Tools:
 
-<img src="https://logos-download.com/wp-content/uploads/2019/06/Notion_App_Logo.png" width="50px"/>
-<img src="https://logosmarcas.net/wp-content/uploads/2021/03/Asana-Logo.png" width="75px"/>
-<img src="https://logodownload.org/wp-content/uploads/2019/10/adobe-photoshop-logo.png" width="50px"/>
-<img src="https://skillicons.dev/icons?i=vscode,figma,)](https://skillicons.dev"/>
+[![My Skills](https://skillicons.dev/icons?i=notion,vscode,figma,postman,idea&perline=5)](https://skillicons.dev)
 
 &nbsp;
 &nbsp;
