@@ -3,15 +3,12 @@
 
   </div>
 
-<p align="center">I ❤️ solve great challenges using tech. <br><br>
-  frontend development using JavaScript, Html e CSS, I am <strong>passionate to discover new stuffs</strong> and use them to create high quality solutions. Today, I'm a <strong>FrontEnd mid-level</strong> focused on web development.</p>&nbsp;
-
-<div  align="center" style="margin-bottom:100px">
-<img align="center" width=50%  src="https://github-readme-streak-stats.herokuapp.com?user=Udiel-Oliveira&theme=algolia&mode=weekly"/>
-
-<img width=45% align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Udiel-Oliveira&layout=compact&langs_count=7&theme=algolia"/>
-
-</div>
+<p align="center">
+  Tenho entusiasmo em resolver desafios complexos por meio da tecnologia.<br><br>
+  Atuo com foco em desenvolvimento front-end utilizando JavaScript, HTML e CSS, sempre buscando explorar novas ferramentas e frameworks para criar soluções de alta qualidade. 
+  Atualmente, sou desenvolvedor front-end em nível intermediário, dedicado a construir aplicações web escaláveis, responsivas e centradas na experiência do usuário.
+</p>
+&nbsp;
 
 <div> 
   
