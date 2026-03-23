@@ -19,7 +19,7 @@
 
 #### Main Stack:
 
-<img src="https://skillicons.dev/icons?i=js,react,html,css,git,nextjs,)](https://skillicons.dev"/>
+<img src="https://skillicons.dev/icons?i=js,react,html,css,git,nextjs,nodejs,)](https://skillicons.dev"/>
 
 
 <!--My Skills-->
